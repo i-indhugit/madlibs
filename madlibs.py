@@ -10,7 +10,6 @@ evil_name = input("Enter the name of an evil villain: ")
 silly_action = input("Enter a silly action (e.g., 'juggling monkeys'): ")
 adjective2 = input("Enter another adjective: ")
 weapon = input("Enter a type of weapon: ")
-
 story = f"""
 Agent {agent_name}, the world’s most {adjective1} spy, received a mysterious message.
 "Your mission, should you choose to accept it, involves the {gadget} prototype stolen in {city}."
