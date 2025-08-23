@@ -17,5 +17,6 @@ But {evil_name} had a plan. Inside a hidden lair filled with lasers and {silly_a
 With only a {weapon} in hand, Agent {agent_name} kicked open the door and shouted, “Justice is served — shaken, not stirred!”
 What happened next? Well… that’s classified.
 """
+
 print("\n Your Secret Agent Story ")
 print(story)
