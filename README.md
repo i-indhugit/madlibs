@@ -1,5 +1,3 @@
-
-
 Madlibs.py
 
 
